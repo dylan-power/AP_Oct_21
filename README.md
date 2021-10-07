@@ -1,2 +1,4 @@
 "This is the readme file for the tutorial repository."
-"Change made in main branch on line 2." 
+A second line is inserted into the README file.
+
+Change added in dazzling feature branch to provoke conflict.
